@@ -85,8 +85,6 @@ The Worst Roommate is a collaborative project.
   - Low-poly environments, flat scenes, UE5 lighting integration
 - Léo Chérubin: 3D modeller
   - Low-poly 3D models
-- Emma Escudero: Character designer and illustrator
-  - Character visual research, emotional state variations, PS1-style silhouettes
 
 See: https://lburdier.fr/projects/the-worst-roommate.html#team
 
