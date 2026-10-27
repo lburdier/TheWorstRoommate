@@ -79,13 +79,13 @@ Voir: https://lburdier.fr/projects/the-worst-roommate.html#environments
 
 The Worst Roommate est un projet collaboratif.
 
-- Lucas Burdier — Chef de projet, Game Designer & Développeur
+- Lucas Burdier: Chef de projet, Game Designer & Développeur
   - Supervision du concept, développement du prototype, direction artistique et ton narratif
-- Léo Daurelle — 3D Artist, RDI & Level Designer
+- Léo Daurelle: 3D Artist, RDI & Level Designer
   - Environnements low-poly, scènes d’appartement, intégration lumières UE5
-- Léo Chérubin — Modeleur 3D & RDI
+- Léo Chérubin: Modeleur 3D & RDI
   - Conception de modèles 3D low-poly
-- Emma Escudero — Chara Designer, RDI & Illustratrice
+- Emma Escudero: Chara Designer, RDI & Illustratrice
   - Recherche visuelle des personnages, variations d’états émotionnels, silhouettes style PS1
 
 Voir: https://lburdier.fr/projects/the-worst-roommate.html#team
@@ -110,24 +110,24 @@ Voir: https://lburdier.fr/projects/the-worst-roommate.html#production
 
 ## Roadmap & avancement
 
-- Pré-production GDD v1 — En cours: écriture du GDD, mécaniques clés, moodboard, pipeline, planification du prototype
-- Prototype vertical slice — À venir: boucle d’une soirée, IA coloc basique, 2 événements contextuels
-- Art pass — À venir: pack textures PS1, lighting cohérent, premiers SFX
-- Playtests fermés — À venir: itérations UX, options confort, équilibrage sanité/suspicion
-- Démo publique — À venir: une soirée complète, embranchements, 2 fins
+- Pré-production GDD v1 (en cours) : écriture du GDD, mécaniques clés, moodboard, pipeline, planification du prototype
+- Prototype vertical slice (à venir) : boucle d’une soirée, IA coloc basique, 2 événements contextuels
+- Art pass (à venir) : pack textures PS1, lighting cohérent, premiers SFX
+- Playtests fermés (à venir) : itérations UX, options confort, équilibrage sanité/suspicion
+- Démo publique (à venir) : une soirée complète, embranchements, 2 fins
 
 Voir: https://lburdier.fr/projects/the-worst-roommate.html#roadmap
 
 ## FAQ
 
-- Le projet est-il rémunéré ? — Pour l’instant, participations bénévoles (pré-production et prototypage). Crédits et références seront mentionnés sur les supports officiels.
-- Comment rejoindre l’équipe ? — Via le formulaire de contact en bas de la page; préciser compétences et lien vers portfolio/travaux.
-- Quand pourra-t-on jouer à la démo ? — Après la finalisation du prototype; une masterclass présentera les premières scènes et mécaniques.
-- Quelle est la durée prévue du développement ? — Plusieurs mois, rythme progressif selon disponibilités; roadmap publique mise à jour.
-- Dans quel esprit s’inscrit The Worst Roommate ? — Tension du quotidien, isolement, perception, paranoïa. Inspiré par des faits réels et expériences de colocation.
+- Le projet est-il rémunéré ? Pour l’instant, participations bénévoles (pré-production et prototypage). Crédits et références seront mentionnés sur les supports officiels.
+- Comment rejoindre l’équipe ? Via le formulaire de contact en bas de la page; préciser compétences et lien vers portfolio/travaux.
+- Quand pourra-t-on jouer à la démo ? Après la finalisation du prototype; une masterclass présentera les premières scènes et mécaniques.
+- Quelle est la durée prévue du développement ? Plusieurs mois, rythme progressif selon disponibilités; roadmap publique mise à jour.
+- Dans quel esprit s’inscrit The Worst Roommate ? Tension du quotidien, isolement, perception, paranoïa. Inspiré par des faits réels et expériences de colocation.
 
 Liens: https://lburdier.fr/projects/the-worst-roommate.html#faq | https://lburdier.fr/projects/the-worst-roommate.html#contact | https://lburdier.fr/projects/the-worst-roommate.html#announcement
 
 ---
 
-© 2025 The Worst Roommate — Projet narratif et psychologique en développement. Site: https://lburdier.fr/projects/the-worst-roommate.html
+© 2025 The Worst Roommate. Projet narratif et psychologique en développement. Site: https://lburdier.fr/projects/the-worst-roommate.html

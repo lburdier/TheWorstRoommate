@@ -79,13 +79,13 @@ See: https://lburdier.fr/projects/the-worst-roommate.html#environments
 
 The Worst Roommate is a collaborative project.
 
-- Lucas Burdier — Project lead, game designer and developer
+- Lucas Burdier: Project lead, game designer and developer
   - Concept supervision, prototype development, art direction and narrative tone
-- Léo Daurelle — 3D artist and level designer
+- Léo Daurelle: 3D artist and level designer
   - Low-poly environments, flat scenes, UE5 lighting integration
-- Léo Chérubin — 3D modeller
+- Léo Chérubin: 3D modeller
   - Low-poly 3D models
-- Emma Escudero — Character designer and illustrator
+- Emma Escudero: Character designer and illustrator
   - Character visual research, emotional state variations, PS1-style silhouettes
 
 See: https://lburdier.fr/projects/the-worst-roommate.html#team
@@ -110,24 +110,24 @@ See: https://lburdier.fr/projects/the-worst-roommate.html#production
 
 ## Roadmap
 
-- Pre-production, GDD v1 — In progress: writing the GDD, core mechanics, moodboard, pipeline, prototype planning
-- Vertical slice prototype — Upcoming: one-evening loop, basic roommate AI, 2 contextual events
-- Art pass — Upcoming: PS1 texture pack, consistent lighting, first SFX
-- Closed playtests — Upcoming: UX iterations, comfort options, sanity / suspicion balancing
-- Public demo — Upcoming: one full evening, branching paths, 2 endings
+- Pre-production, GDD v1 (in progress): writing the GDD, core mechanics, moodboard, pipeline, prototype planning
+- Vertical slice prototype (upcoming): one-evening loop, basic roommate AI, 2 contextual events
+- Art pass (upcoming): PS1 texture pack, consistent lighting, first SFX
+- Closed playtests (upcoming): UX iterations, comfort options, sanity / suspicion balancing
+- Public demo (upcoming): one full evening, branching paths, 2 endings
 
 See: https://lburdier.fr/projects/the-worst-roommate.html#roadmap
 
 ## FAQ
 
-- Is the project paid? — For now, contributions are voluntary (pre-production and prototyping). Credits will appear on official materials.
-- How can I join the team? — Through the contact form at the bottom of the page; mention your skills and a link to your portfolio or work.
-- When can I play the demo? — Once the prototype is finished; a masterclass will present the first scenes and mechanics.
-- How long will development take? — Several months, at a pace that depends on everyone's availability; the public roadmap is kept up to date.
-- What is the spirit of The Worst Roommate? — Everyday tension, isolation, perception, paranoia. Inspired by real events and flat-sharing experiences.
+- Is the project paid? For now, contributions are voluntary (pre-production and prototyping). Credits will appear on official materials.
+- How can I join the team? Through the contact form at the bottom of the page; mention your skills and a link to your portfolio or work.
+- When can I play the demo? Once the prototype is finished; a masterclass will present the first scenes and mechanics.
+- How long will development take? Several months, at a pace that depends on everyone's availability; the public roadmap is kept up to date.
+- What is the spirit of The Worst Roommate? Everyday tension, isolation, perception, paranoia. Inspired by real events and flat-sharing experiences.
 
 Links: https://lburdier.fr/projects/the-worst-roommate.html#faq | https://lburdier.fr/projects/the-worst-roommate.html#contact | https://lburdier.fr/projects/the-worst-roommate.html#announcement
 
 ---
 
-© 2025 The Worst Roommate — Narrative psychological game in development. Website: https://lburdier.fr/projects/the-worst-roommate.html
+© 2025 The Worst Roommate. Narrative psychological game in development. Website: https://lburdier.fr/projects/the-worst-roommate.html
