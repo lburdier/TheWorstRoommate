@@ -1,131 +1,133 @@
+**English** · [Français](README.fr.md)
+
 # The Worst Roommate
 
-Un survival psychologique urbain. Chaque soir, vous rentrez au studio. Les tâches ménagères deviennent un rituel où l’angoisse monte. Vos choix sculptent une semaine complète d’événements dynamiques, avec fins multiples et comportements imprévisibles du colocataire.
+An urban psychological survival game. Every evening, you come home to the studio flat. Household chores become a ritual where anxiety builds up. Your choices shape a full week of dynamic events, with multiple endings and an unpredictable roommate.
 
-- Genre: Survival psychologique, narratif
-- Contexte: Appartement urbain, quotidien qui déraille
-- Boucle de jeu: 7 jours (retour, gestion, surveillance, repos)
-- Moteur: Unreal Engine 5
-- Plateforme: PC
-- Style visuel: PS1 maîtrisé
+- Genre: psychological survival, narrative
+- Setting: an urban flat, everyday life going off the rails
+- Game loop: 7 days (come home, manage, watch, rest)
+- Engine: Unreal Engine 5
+- Platform: PC
+- Visual style: controlled PS1 look
 
-Lien officiel: https://lburdier.fr/projects/the-worst-roommate.html
+Official page: https://lburdier.fr/projects/the-worst-roommate.html
 
-## Axes de conception
+## Design pillars
 
-- Immersion par les sons domestiques, espaces exigus, lumières faibles
-- Lecture environnementale: objets déplacés, déchets, odeurs suggérées par le design sonore
-- Tension progressive; jumpscares maîtrisés et justifiés par la narration
-- Appartement semi-procédural (agencement, saleté, points d’intérêt) pour varier chaque run
+- Immersion through household sounds, cramped spaces and dim lighting
+- Environmental storytelling: moved objects, rubbish, smells suggested by sound design
+- Gradual tension; jumpscares kept in check and justified by the story
+- Semi-procedural flat (layout, dirt, points of interest) so every run feels different
 
-Voir: https://lburdier.fr/projects/the-worst-roommate.html#about
+See: https://lburdier.fr/projects/the-worst-roommate.html#about
 
-## Mécaniques principales
+## Core mechanics
 
-- Routines et tâches: checklist dynamique (vaisselle, poubelle, tri, serpillière) impactant odeur, infestation, patience; pièces propres = stress réduit
-- Système de suspicion: jauge invisible; fouiller/déplacer/photographier ↑; collaborer/notes/compromis ↓; réactions: silences, regards, portes claquées, messages
-- Sanité & hallucinations: stress ⇒ vision tunnel, grain, aberrations, faux sons; se stabiliser via douche chaude, musique, appel ami, lumière chaude
-- IA du colocataire: horaires semi-procéduraux, zones de confort, déclencheurs d’humeur; comportements: évitement, passif-agressif, sabotage, confrontation
-- Événements contextuels: coupure de courant, fuite d’eau, odeur de brûlé, bruits nocturnes, colis, visiteurs; multiples résolutions; carnet d’indices intégré
-- Stealth domestique: marcher sans grincer, obscurité partielle, diversion (radio, micro-ondes, robinet); pas d’armes, sang-froid et méthode
-- Preuves & narration: photos, factures, historiques, notes manuscrites; servent à négocier, alerter, ou déclencher une fin; manques = biais d’interprétation
-- Économie du temps: soirées courtes; arbitrer entre ranger, enquêter, dormir; manque de sommeil ⇒ paranoïa
+- Routines and chores: a dynamic checklist (dishes, bins, sorting, mopping) affecting smell, infestation and patience; clean rooms = less stress
+- Suspicion system: a hidden gauge; searching / moving things / taking photos ↑; cooperating / notes / compromise ↓; reactions: silences, looks, slammed doors, messages
+- Sanity and hallucinations: stress ⇒ tunnel vision, grain, aberrations, fake sounds; calm down with a hot shower, music, a call to a friend, warm light
+- Roommate AI: semi-procedural schedules, comfort zones, mood triggers; behaviours: avoidance, passive-aggressive, sabotage, confrontation
+- Contextual events: power cuts, water leaks, burning smells, night noises, parcels, visitors; several possible resolutions; built-in clue notebook
+- Domestic stealth: walk without creaking, partial darkness, distractions (radio, microwave, tap); no weapons, only composure and method
+- Evidence and narrative: photos, bills, logs, handwritten notes; used to negotiate, raise the alarm or trigger an ending; missing evidence = biased interpretation
+- Time economy: short evenings; choose between tidying, investigating and sleeping; lack of sleep ⇒ paranoia
 
-Voir: https://lburdier.fr/projects/the-worst-roommate.html#mechanics
+See: https://lburdier.fr/projects/the-worst-roommate.html#mechanics
 
-## Fonctionnalités clefs et systèmes
+## Key features and systems
 
-- Fins multiples: au moins 7 fins selon l’ordre, les preuves et l’escalade des conflits
-- QTE ponctuels, courts et lisibles (pas de punition gratuite)
-- IA: humeur, routines, zones et réactions contextuelles
-- Cycle Jour/Nuit: 7 jours, événements et tensions évolutives
-- Relations: messages, notes, dialogues brefs, seuils de confiance
-- PC & Téléphone diégétiques: journal, photos-preuves, tâches, messagerie
-- Conséquences persistantes: scènes, IA, fins
-- Génération: layout, encombrement, pannes et points d’intérêt semi-procéduraux
-- Cinématiques brèves aux moments clés (cam fixe/épaulé)
-- Hallucinations pilotées par la barre de stress
+- Multiple endings: at least 7, depending on order, evidence and conflict escalation
+- Occasional QTEs, short and readable (no gratuitous punishment)
+- AI: mood, routines, zones and contextual reactions
+- Day / night cycle: 7 days, evolving events and tension
+- Relationships: messages, notes, short dialogues, trust thresholds
+- Diegetic PC and phone: journal, photo evidence, tasks, messaging
+- Lasting consequences: scenes, AI, endings
+- Generation: semi-procedural layout, clutter, breakdowns and points of interest
+- Short cutscenes at key moments (fixed / handheld camera)
+- Hallucinations driven by the stress bar
 
-Voir: https://lburdier.fr/projects/the-worst-roommate.html#mechanics
+See: https://lburdier.fr/projects/the-worst-roommate.html#mechanics
 
-## Chara Design & Direction artistique
+## Character design and art direction
 
-### Intention et style PS1
-- Limiter la fidélité pour stimuler l’imaginaire; lisibilité des silhouettes; focus son/lumière/timing
-- Recettes: textures basse résolution, palette réduite, filtrage point, dithering subtil, légère instabilité sub-pixel pour l’écho vintage
-- UI diégétique: menu minimal façon carte de transport; journal sur téléphone; sauvegardes par points de routine
+### Intent and PS1 style
+- Limit fidelity to stimulate the imagination; readable silhouettes; focus on sound, light and timing
+- Recipe: low-resolution textures, reduced palette, point filtering, subtle dithering, slight sub-pixel jitter for a vintage feel
+- Diegetic UI: minimal menu styled like a transit card; journal on the phone; saves at routine checkpoints
 
-Voir: https://lburdier.fr/projects/the-worst-roommate.html#style
+See: https://lburdier.fr/projects/the-worst-roommate.html#style
 
-### Personnages
-- Protagoniste: silhouette fine, vêtements quotidiens, expressions sobres; nervosité contenue; poses au bord du lit; palette froide, touches chaudes; smartphone carnet; animations courtes, respirations audibles
-- Le colocataire: posture instable, cheveux en désordre, lunettes abîmées; états: neutre/irritable/absent/menaçant; yeux hors lumière; silhouette reconnaissable; gestuelle saccadée, micro-tremblements; voix feutrée, souffle en micro distant
+### Characters
+- Protagonist: slim silhouette, everyday clothes, restrained expressions; contained nervousness; sitting on the edge of the bed; cold palette with warm accents; smartphone as notebook; short animations, audible breathing
+- The roommate: unsteady posture, messy hair, damaged glasses; states: neutral / irritable / absent / threatening; eyes out of the light; recognisable silhouette; jerky movements, micro-tremors; muffled voice, breathing on a distant mic
 
-Voir: https://lburdier.fr/projects/the-worst-roommate.html#characters
+See: https://lburdier.fr/projects/the-worst-roommate.html#characters
 
-### Environnements UE5 & pipeline visuel
-- Modélisation low-poly pour silhouettes lisibles
-- Génération procédurale d’appartements (layout, encombrement, éclairage)
-- Textures 256–512 px, atlas partagés, UV packs sobres
-- Lighting stationnaire, baked GI, downsample ciblé
-- Post-process: grain, vignette légère, légère aberration chromatique
-- Audio: foley domestique multicanal, réverb légère par pièce
+### UE5 environments and visual pipeline
+- Low-poly modelling for readable silhouettes
+- Procedural flat generation (layout, clutter, lighting)
+- 256–512 px textures, shared atlases, clean UV packing
+- Stationary lighting, baked GI, targeted downsampling
+- Post-process: grain, light vignette, slight chromatic aberration
+- Audio: multichannel household foley, light reverb per room
 
-Voir: https://lburdier.fr/projects/the-worst-roommate.html#environments
+See: https://lburdier.fr/projects/the-worst-roommate.html#environments
 
-## Équipe
+## Team
 
-The Worst Roommate est un projet collaboratif.
+The Worst Roommate is a collaborative project.
 
-- Lucas Burdier — Chef de projet, Game Designer & Développeur
-  - Supervision du concept, développement du prototype, direction artistique et ton narratif
-- Léo Daurelle — 3D Artist, RDI & Level Designer
-  - Environnements low-poly, scènes d’appartement, intégration lumières UE5
-- Léo Chérubin — Modeleur 3D & RDI
-  - Conception de modèles 3D low-poly
-- Emma Escudero — Chara Designer, RDI & Illustratrice
-  - Recherche visuelle des personnages, variations d’états émotionnels, silhouettes style PS1
+- Lucas Burdier — Project lead, game designer and developer
+  - Concept supervision, prototype development, art direction and narrative tone
+- Léo Daurelle — 3D artist and level designer
+  - Low-poly environments, flat scenes, UE5 lighting integration
+- Léo Chérubin — 3D modeller
+  - Low-poly 3D models
+- Emma Escudero — Character designer and illustrator
+  - Character visual research, emotional state variations, PS1-style silhouettes
 
-Voir: https://lburdier.fr/projects/the-worst-roommate.html#team
+See: https://lburdier.fr/projects/the-worst-roommate.html#team
 
-## Communauté & Discord
+## Community and Discord
 
-Un serveur Discord officiel ouvrira prochainement (actuellement indisponible). Il permettra de discuter des avancées, d’être informé des annonces, playtests et recrutements, de partager des créations et de rejoindre la communauté.
+An official Discord server will open soon (not available yet). It will be the place to follow progress, get announcements, playtests and recruitment calls, share creations and join the community.
 
-- Annonce et notifications: https://lburdier.fr/projects/the-worst-roommate.html#announcement
-- Section communauté: https://lburdier.fr/projects/the-worst-roommate.html#team
+- Announcements: https://lburdier.fr/projects/the-worst-roommate.html#announcement
+- Community section: https://lburdier.fr/projects/the-worst-roommate.html#team
 
-## Outils & pipeline de production
+## Tools and production pipeline
 
-- 3D & Animation: Blender, Maya, Substance 3D Painter, Leonardo AI
-- Moteur de jeu: Unreal Engine 5 (lighting, Blueprints, IA comportementale); gestion procédurale de l’appartement et scripts d’événements quotidiens
-- Audio & Narration: DaVinci Resolve/Fairlight, FL Studio, ElevenLabs AI (voix in-game pour tests)
-- Organisation & Collaboration: Miro, Discord
-- Versioning & Suivi: GitHub (branches par module; organisation par jours de jeu; validations via PR)
-- Rendu & Optimisation: pipeline simplifié, compatibilité PSX-style, intégration UE5 optimisée avec Nanite low-poly
+- 3D and animation: Blender, Maya, Substance 3D Painter, Leonardo AI
+- Game engine: Unreal Engine 5 (lighting, Blueprints, behavioural AI); procedural flat management and daily event scripts
+- Audio and narrative: DaVinci Resolve / Fairlight, FL Studio, ElevenLabs AI (in-game test voices)
+- Organisation and collaboration: Miro, Discord
+- Versioning and tracking: GitHub (branches per module; organised by game day; reviews through PRs)
+- Rendering and optimisation: simplified pipeline, PSX-style compatibility, optimised UE5 integration with low-poly Nanite
 
-Voir: https://lburdier.fr/projects/the-worst-roommate.html#production
+See: https://lburdier.fr/projects/the-worst-roommate.html#production
 
-## Roadmap & avancement
+## Roadmap
 
-- Pré-production GDD v1 — En cours: écriture du GDD, mécaniques clés, moodboard, pipeline, planification du prototype
-- Prototype vertical slice — À venir: boucle d’une soirée, IA coloc basique, 2 événements contextuels
-- Art pass — À venir: pack textures PS1, lighting cohérent, premiers SFX
-- Playtests fermés — À venir: itérations UX, options confort, équilibrage sanité/suspicion
-- Démo publique — À venir: une soirée complète, embranchements, 2 fins
+- Pre-production, GDD v1 — In progress: writing the GDD, core mechanics, moodboard, pipeline, prototype planning
+- Vertical slice prototype — Upcoming: one-evening loop, basic roommate AI, 2 contextual events
+- Art pass — Upcoming: PS1 texture pack, consistent lighting, first SFX
+- Closed playtests — Upcoming: UX iterations, comfort options, sanity / suspicion balancing
+- Public demo — Upcoming: one full evening, branching paths, 2 endings
 
-Voir: https://lburdier.fr/projects/the-worst-roommate.html#roadmap
+See: https://lburdier.fr/projects/the-worst-roommate.html#roadmap
 
 ## FAQ
 
-- Le projet est-il rémunéré ? — Pour l’instant, participations bénévoles (pré-production et prototypage). Crédits et références seront mentionnés sur les supports officiels.
-- Comment rejoindre l’équipe ? — Via le formulaire de contact en bas de la page; préciser compétences et lien vers portfolio/travaux.
-- Quand pourra-t-on jouer à la démo ? — Après la finalisation du prototype; une masterclass présentera les premières scènes et mécaniques.
-- Quelle est la durée prévue du développement ? — Plusieurs mois, rythme progressif selon disponibilités; roadmap publique mise à jour.
-- Dans quel esprit s’inscrit The Worst Roommate ? — Tension du quotidien, isolement, perception, paranoïa. Inspiré par des faits réels et expériences de colocation.
+- Is the project paid? — For now, contributions are voluntary (pre-production and prototyping). Credits will appear on official materials.
+- How can I join the team? — Through the contact form at the bottom of the page; mention your skills and a link to your portfolio or work.
+- When can I play the demo? — Once the prototype is finished; a masterclass will present the first scenes and mechanics.
+- How long will development take? — Several months, at a pace that depends on everyone's availability; the public roadmap is kept up to date.
+- What is the spirit of The Worst Roommate? — Everyday tension, isolation, perception, paranoia. Inspired by real events and flat-sharing experiences.
 
-Liens: https://lburdier.fr/projects/the-worst-roommate.html#faq | https://lburdier.fr/projects/the-worst-roommate.html#contact | https://lburdier.fr/projects/the-worst-roommate.html#announcement
+Links: https://lburdier.fr/projects/the-worst-roommate.html#faq | https://lburdier.fr/projects/the-worst-roommate.html#contact | https://lburdier.fr/projects/the-worst-roommate.html#announcement
 
 ---
 
-© 2025 The Worst Roommate — Projet narratif et psychologique en développement. Site: https://lburdier.fr/projects/the-worst-roommate.html
+© 2025 The Worst Roommate — Narrative psychological game in development. Website: https://lburdier.fr/projects/the-worst-roommate.html
